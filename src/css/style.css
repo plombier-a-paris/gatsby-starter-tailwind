@@ -35,7 +35,9 @@
  * @import "components/buttons";
  * @import "components/forms";
  */
-
+ .gradient {
+    background: linear-gradient(90deg, #499bea 0%, #68d3e6 100%);
+}
 /**
  * This injects all of Tailwind's utility classes, generated based on your
  * config file.
